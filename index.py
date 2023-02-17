@@ -19,7 +19,7 @@ if osn == 'LIST' or osn == 'CONVERT' or osn == 'INFO':
     if osn.lower() in {'EXIT', 'QUIT', 'Q'}:
          print('Bye!')
          exit()
-        
+#TODO - api support, increase available functions, make datetime usable - make a currency state for current day or in past.
     
         
 
